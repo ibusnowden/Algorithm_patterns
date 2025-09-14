@@ -1,0 +1,12 @@
+1- brew services start jupyterlab
+2- jupyter lab
+
+Topics:
+1. Correctness of algorithms
+2. Analysis of running time
+3. Divide/decrease and conquer
+4. Dynamic programming
+5. Greedy
+6. Backtracking
+7. Branch and bound
+8. Graph algorithms
